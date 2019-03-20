@@ -1,15 +1,13 @@
 <template>
   <div>
-   Ruth
+   Ruths.ai Oilwell Monitoring Sytem 
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
-  props: {
-    msg: String
-  }
+  name: 'Header',
+
 }
 </script>
 
