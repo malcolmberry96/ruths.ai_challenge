@@ -7,6 +7,7 @@
 
 <script>
 import Header from './components/Header.vue'
+import ECharts from './components/Header.vue'
 
 export default {
   name: 'app',
